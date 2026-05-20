@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**luciadobre/luciadobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucia, a frontend developer based in Bucharest, Romania. 
 
-Here are some ideas to get you started:
+I mostly work on frontend, but i have a bit of backend experience — React, Next.js, TypeScript, and Node.js. Currently freelancing and doing personal projects to improve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+
+- React, Next.js, TypeScript, JavaScript
+- Node.js, Strapi, GraphQL, Apollo, REST
+- Tailwind CSS, Zustand, jQuery
+- MySQL, MSSQL
+- Jest, Git, GitHub Actions, Vercel
+- Adobe Photoshop, Adobe Premiere
+
+---
+
+### A Bit About Me
+
+- 🇷🇴 Romanian native, English C1 
+- 📚 Studying Economic Informatics at Babeș-Bolyai University
+- 🎨 I also have a background in design and social media
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/dobre-lucia-corina/)
