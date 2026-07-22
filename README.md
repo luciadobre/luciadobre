@@ -1,25 +1,25 @@
-### Hey there 👋
+## Hey there 👋
 
-I'm Lucia, a frontend developer based in Bucharest, Romania. 
+I'm Lucia, a frontend developer based in Bucharest, Romania.
 
-I mostly work on frontend, but i have a bit of backend experience — React, Next.js, TypeScript, and Node.js. Currently freelancing and doing personal projects to improve.
-
----
-
-### Tools & Tech
-
-- React, Next.js, TypeScript, JavaScript
-- Node.js, Strapi, GraphQL, Apollo, REST
-- Tailwind CSS, Zustand, jQuery
-- MySQL, MSSQL
-- Jest, Git, GitHub Actions, Vercel
-- Adobe Photoshop, Adobe Premiere
+I mostly work on frontend, but i have a bit of backend experience React, Next.js, TypeScript, and Node.js. Currently freelancing and doing personal projects to improve.
 
 ---
 
-### A Bit About Me
+## A Bit About Me
 
-- 🇷🇴 Romanian native, English C1 
-- 📚 Bachelor's in Informatics Economics at Babeș-Bolyai University
-- 🎨 I also have a background in design and social media
-- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/dobre-lucia-corina/)
+* 📚 Bachelor's in Informatics Economics at Babeș-Bolyai University
+* 🛡️ Part of the team behind [**ComplyKidz**](https://www.linkedin.com/company/complykidz/), a platform focused on privacy and secure educator–parent communication
+* 🎨 I also have a background in design and social media
+* 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/dobre-lucia-corina/)
+
+---
+
+## Tools & Tech
+
+`React` `Next.js` `TypeScript` `JavaScript`
+`Node.js` `Strapi` `GraphQL` `Apollo` `REST`
+`Tailwind CSS` `Zustand` `jQuery`
+`MySQL` `MSSQL`
+`Jest` `Git` `GitHub Actions` `Vercel`
+`Adobe Photoshop` `Adobe Premiere`
