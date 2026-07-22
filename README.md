@@ -20,6 +20,6 @@ I mostly work on frontend, but i have a bit of backend experience — React, Nex
 ### A Bit About Me
 
 - 🇷🇴 Romanian native, English C1 
-- 📚 Studying Economic Informatics at Babeș-Bolyai University
+- 📚 Bachelor's in Informatics Economics at Babeș-Bolyai University
 - 🎨 I also have a background in design and social media
 - 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/dobre-lucia-corina/)
